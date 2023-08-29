@@ -1,2 +1,1 @@
-# create-repo-tester
-test
+hello world
